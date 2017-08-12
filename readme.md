@@ -1,7 +1,7 @@
-Short Lnk
+# Short Lnk
 
 This is a link shortener using Meteor and React framework.
 
-Authors
+## Authors
 
 Chen Lin
